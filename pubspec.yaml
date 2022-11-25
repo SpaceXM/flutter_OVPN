@@ -1,7 +1,7 @@
 name: flutter_openvpn
 description: Flutter OpenVPN uses OpenVpn Protocol to connect with ovpn file configurations.
 version: 0.2.0
-homepage: https://gitlab.com/topfreelancerdeveloper/flutter_openvpn.git
+homepage: https://github.com/SpaceXM/flutter_OVPN.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.16.1
+  intl: ^0.17.1
   shared_preferences: ^0.5.8
 
 dev_dependencies:
